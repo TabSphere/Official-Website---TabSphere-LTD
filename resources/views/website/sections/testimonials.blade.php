@@ -5,7 +5,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>What they are saying about us</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -34,7 +34,6 @@
                   }
                 }
             </script>
-
             <div class="swiper-wrapper">
 
                 <!-- Testimonial Slide 1 -->
@@ -51,11 +50,11 @@
                             </div>
                         </div>
                         <div class="testimonial-body">
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit sed eiusmod tempor.</p>
+                            <p>TabSphere delivered a flawless website redesign that boosted our brand presence. Their team was efficient, professional, and easy to work with.</p>
                         </div>
                         <div class="testimonial-footer">
-                            <h5>Jessica Martinez</h5>
-                            <span>UX Designer</span>
+                            <h5>Elena Morrison</h5>
+                            <span>CEO, BrightNest Interiors</span>
                             <div class="quote-icon">
                                 <i class="bi bi-chat-quote-fill"></i>
                             </div>
@@ -77,11 +76,11 @@
                             </div>
                         </div>
                         <div class="testimonial-body">
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+                            <p>We relied on TabSphere for cybersecurity support, and they exceeded expectations. Their deep knowledge and proactive approach gave us peace of mind.</p>
                         </div>
                         <div class="testimonial-footer">
-                            <h5>David Rodriguez</h5>
-                            <span>Software Engineer</span>
+                            <h5>Samuel Adeyemi</h5>
+                            <span>CTO, Finlytics Africa</span>
                             <div class="quote-icon">
                                 <i class="bi bi-chat-quote-fill"></i>
                             </div>
@@ -103,11 +102,11 @@
                             </div>
                         </div>
                         <div class="testimonial-body">
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud.</p>
+                            <p>The branding work TabSphere did for us was outstanding. They understood our vision and delivered designs that truly represented who we are.</p>
                         </div>
                         <div class="testimonial-footer">
-                            <h5>Amanda Wilson</h5>
-                            <span>Creative Director</span>
+                            <h5>Naomi Sarpong</h5>
+                            <span>CEO, Scentology Co.</span>
                             <div class="quote-icon">
                                 <i class="bi bi-chat-quote-fill"></i>
                             </div>
@@ -129,11 +128,11 @@
                             </div>
                         </div>
                         <div class="testimonial-body">
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo inventore veritatis.</p>
+                            <p>From onboarding to delivery, TabSphere made it simple. Their team communicated well and built a product we’re proud of.</p>
                         </div>
                         <div class="testimonial-footer">
-                            <h5>Ryan Thompson</h5>
-                            <span>Business Analyst</span>
+                            <h5>Daniel Okoro</h5>
+                            <span>Managing Director, Okoro Ventures</span>
                             <div class="quote-icon">
                                 <i class="bi bi-chat-quote-fill"></i>
                             </div>
@@ -155,11 +154,11 @@
                             </div>
                         </div>
                         <div class="testimonial-body">
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p>
+                            <p>Working with TabSphere was a breeze. Their creative team brought fresh ideas to the table and delivered results that impressed everyone.</p>
                         </div>
                         <div class="testimonial-footer">
-                            <h5>Rachel Chen</h5>
-                            <span>Project Manager</span>
+                            <h5>Fatima Noor</h5>
+                            <span>Head of Operations, Zen Logistics</span>
                             <div class="quote-icon">
                                 <i class="bi bi-chat-quote-fill"></i>
                             </div>

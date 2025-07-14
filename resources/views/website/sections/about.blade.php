@@ -21,28 +21,28 @@
                                 <div class="feature-item">
                                     <i class="bi bi-award"></i>
                                     <h5>Excellence</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <p>We deliver high-quality digital solutions that combine performance, security, and design — built to exceed expectations.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-item">
                                     <i class="bi bi-lightbulb"></i>
                                     <h5>Innovation</h5>
-                                    <p>Proin vel mauris in magna fringilla finibus.</p>
+                                    <p>We embrace emerging tech and creative thinking to build future-ready solutions for a rapidly evolving digital world.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-item">
                                     <i class="bi bi-people"></i>
-                                    <h5>Community</h5>
-                                    <p>Suspendisse potenti. Integer ut fringilla mi.</p>
+                                    <h5>Collaboration</h5>
+                                    <p>We work closely with clients and partners, turning ideas into impact through strong teamwork and shared goals.</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="feature-item">
                                     <i class="bi bi-graph-up-arrow"></i>
                                     <h5>Growth</h5>
-                                    <p>Maecenas ac nibh magna. Aenean fringilla lobortis ex.</p>
+                                    <p>We empower our clients to scale with secure, flexible, and modern tools tailored for long-term success.</p>
                                 </div>
                             </div>
                         </div>
