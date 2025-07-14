@@ -11,9 +11,9 @@
             <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
                 <div class="content">
                     <h2 class="mb-4">Our Story</h2>
-                    <h5 class="mb-4">Crafting innovative solutions since 2010</h5>
+                    <h5 class="mb-4">Who We Are</h5>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel mauris in magna fringilla finibus. Suspendisse potenti. Integer ut fringilla mi, a aliquam risus. Maecenas ac nibh magna. Aenean fringilla lobortis ex, sit amet iaculis eros facilisis nec.</p>
+                    <p>TabSphere UK-based digital innovation and cybersecurity company dedicated to delivering secure, scalable, and creative technology solutions.</p>
 
                     <div class="features-list mt-5" data-aos="fade-up" data-aos-delay="400">
                         <div class="row g-4">

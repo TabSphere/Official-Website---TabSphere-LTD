@@ -5,6 +5,7 @@
             <div class="row gy-4">
                 <div class="col-lg-4 col-md-6 footer-about">
                     <a href="{{ url('/') }}" class="logo d-flex align-items-center">
+                        <img src="{{ asset('assets/img/logo_white.png') }}" alt="">
                         <span class="sitename">{{ config('app.name', 'TabSphere') }}</span>
                     </a>
                     <div class="footer-contact pt-3">

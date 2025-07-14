@@ -54,9 +54,9 @@
                         </div>
                         <div class="card-content">
                             <h5 class="service-title">
-                                <a href="#">Strategic Planning</a>
+                                <a href="#">Creative & Brand Design</a>
                             </h5>
-                            <p class="service-description">Comprehensive roadmaps that align technology solutions with your business objectives and market opportunities.</p>
+                            <p class="service-description">We create polished visual identities that align with your business goals. From custom logos and business cards to modern websites and comprehensive branding, we deliver designs that elevate your brand.</p>
                         </div>
                     </div>
                 </div><!-- End Service Card -->
@@ -68,13 +68,14 @@
                         </div>
                         <div class="card-content">
                             <h5 class="service-title">
-                                <a href="#">Identity Design</a>
+                                <a href="#">Photography</a>
                             </h5>
-                            <p class="service-description">Creating compelling visual narratives that resonate with your audience and strengthen brand recognition across all touchpoints.</p>
+                            <p class="service-description">We offer high-quality photography tailored to your brand or event. From corporate shoots and product photos to portraits and lifestyle content — we capture visuals that speak your story with clarity and professionalism.</p>
                         </div>
                     </div>
                 </div><!-- End Service Card -->
 
+                <!--
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="service-card">
                         <div class="card-number">
@@ -87,7 +88,7 @@
                             <p class="service-description">Maximizing your online presence through targeted campaigns that drive engagement and convert visitors into loyal customers.</p>
                         </div>
                     </div>
-                </div><!-- End Service Card -->
+                </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="service-card">
@@ -101,7 +102,7 @@
                             <p class="service-description">Crafting intuitive interfaces that prioritize user needs while delivering seamless interactions across desktop and mobile platforms.</p>
                         </div>
                     </div>
-                </div><!-- End Service Card -->
+                </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="service-card">
@@ -115,7 +116,8 @@
                             <p class="service-description">Transforming raw data into actionable insights that inform strategic decisions and optimize business performance effectively.</p>
                         </div>
                     </div>
-                </div><!-- End Service Card -->
+                </div>
+                -->
 
             </div>
         </div>

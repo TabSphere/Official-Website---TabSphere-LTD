@@ -5,12 +5,12 @@
 
             <div class="hero-main-content text-center">
                 <h1 class="hero-title" data-aos="zoom-in" data-aos-delay="200">
-                    Transform Your Workflow With<br>
-                    <span class="typed" data-typed-items="Advanced Analytics,Seamless Integration,Robust Security"></span>
+                    Digital Innovation<br>
+                    <span class="typed" data-typed-items="Redefined"></span>
                 </h1>
 
                 <p class="hero-description" data-aos="fade-up" data-aos-delay="300">
-                    Our innovative platform empowers businesses to enhance their productivity and achieve unparalleled operational efficiency across diverse industries.
+                    We're TabSphere LTD, a leading UK-based digital innovation company delivering cutting-edge technology solutions that transform businesses worldwide.
                 </p>
 
                 <div class="hero-actions" data-aos="fade-up" data-aos-delay="400">
