@@ -19,43 +19,46 @@
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root {
-  --background-color: #0D1B2A; /* Background color for the entire website, including individual sections */
-  --default-color: #f8f8f8; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #ffffff; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #FF6A00; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #191919; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
-  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+    --background-color: #0D1B2A;       /* Deep navy - overall website background */
+    --default-color: #E4E8F0;          /* Light cool gray - soft, readable body text */
+    --heading-color: #FFFFFF;          /* Bright white - clean headings and titles */
+    --accent-color: #FF6A00;           /* Vibrant orange - brand highlight for buttons/links */
+    --surface-color: #14263A;          /* Slightly lighter navy - for cards, boxes, panels */
+    --contrast-color: #FFFFFF;         /* White - ensures text is readable on dark elements */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
-  --nav-color: #f8f8f8;  /* The default color of the main navmenu links */
-  --nav-hover-color: #FF6A00; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #1b1a1a; /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: #1b1a1a; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
-  --nav-dropdown-color: #f8f8f8; /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color: #FF6A00; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+    --nav-color: #E4E8F0; /* Soft gray for nav links on dark background */
+    --nav-hover-color: #FF6A00; /* Orange accent for hover/active links */
+    --nav-mobile-background-color: #14263A; /* Deep navy for mobile menu background */
+    --nav-dropdown-background-color: #14263A; /* Dropdown background with contrast */
+    --nav-dropdown-color: #E4E8F0; /* Dropdown link color for better legibility */
+    --nav-dropdown-hover-color: #FF6A00; /* Accent orange on hover */
 }
 
-/* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
-
+/* Color Presets - For reusable section themes */
 .light-background {
-  --background-color: #1b1a1a;
-  --surface-color: #282828;
+    --background-color: #1B1F28;      /* Lighter navy variant for contrast */
+    --surface-color: #2A2F3A;         /* Slightly lighter than background for cards */
+    --default-color: #E4E8F0;         /* Text color on lighter dark bg */
+    --heading-color: #FFFFFF;
+    --contrast-color: #FFFFFF;
 }
 
 .dark-background {
-  --background-color: #000000;
-  --default-color: #ffffff;
-  --heading-color: #ffffff;
-  --surface-color: #1b1b1b;
-  --contrast-color: #ffffff;
+    --background-color: #0D1B2A;      /* Main brand background */
+    --default-color: #E4E8F0;
+    --heading-color: #FFFFFF;
+    --surface-color: #14263A;
+    --contrast-color: #FFFFFF;
 }
 
-/* Smooth scroll */
+/* Smooth scroll behavior */
 :root {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
+
 
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
@@ -461,7 +464,7 @@ h6 {
 }
 
 .footer .footer-top {
-  background-color: color-mix(in srgb, var(--background-color), white 5%);
+  background-color: color-mix(in srgb, var(--background-color), blue 5%);
   padding-top: 50px;
 }
 
