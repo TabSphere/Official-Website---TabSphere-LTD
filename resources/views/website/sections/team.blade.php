@@ -8,7 +8,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <h2>Our Professional Team</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus leo.</p>
+                    <p>Our hard working team.</p>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-lg-end">
                     <div class="team-controls">
@@ -63,8 +63,8 @@
                             </div>
                         </div>
                         <div class="member-content">
-                            <h3>Marcus Wilson</h3>
-                            <span>Chief Technology Officer</span>
+                            <h3>Frederick Oppong Tabiri</h3>
+                            <span>Founder / Chief Technology Officer</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec.</p>
                         </div>
                     </div>

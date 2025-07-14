@@ -1,114 +1,41 @@
-
 <!-- Pricing Section -->
 <section id="pricing" class="pricing section">
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Pricing</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Our pricing is flexible and tailored to your needs. Let’s talk about a plan that works for you.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-            <!-- Basic Plan -->
-            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-8" data-aos="zoom-in" data-aos-delay="200">
                 <div class="pricing-card">
-                    <div class="plan-header">
+                    <div class="plan-header text-center">
                         <div class="plan-icon">
-                            <i class="bi bi-box"></i>
+                            <i class="bi bi-chat-left-dots"></i>
                         </div>
-                        <h3>Starter</h3>
-                        <p>For individuals just getting started</p>
+                        <h3>Let’s Talk</h3>
+                        <p>We offer custom pricing for each service based on your specific goals.</p>
                     </div>
-                    <div class="plan-pricing">
+                    <div class="plan-pricing text-center">
                         <div class="price">
-                            <span class="currency">$</span>
-                            <span class="amount">12</span>
-                            <span class="period">/month</span>
+                            <span class="amount">Flexible Plans</span>
                         </div>
                     </div>
-                    <div class="plan-features">
+                    <div class="plan-features text-center">
                         <ul>
-                            <li><i class="bi bi-check-circle-fill"></i> Nullam accumsan lorem</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Vestibulum auctor dapibus</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Nulla consequat massa</li>
-                            <li class="disabled"><i class="bi bi-x-circle-fill"></i> In enim justo rhoncus ut</li>
-                            <li class="disabled"><i class="bi bi-x-circle-fill"></i> Curabitur ullamcorper ultricies</li>
+                            <li><i class="bi bi-check-circle-fill"></i> Tailored solutions for every budget</li>
+                            <li><i class="bi bi-check-circle-fill"></i> One-on-one consultation</li>
+                            <li><i class="bi bi-check-circle-fill"></i> Scalable for individuals & teams</li>
                         </ul>
                     </div>
-                    <div class="plan-cta">
-                        <a href="#" class="btn-plan">Choose Plan</a>
+                    <div class="plan-cta text-center">
+                        <a href="#contact" class="btn-plan">Contact Us</a>
                     </div>
                 </div>
-            </div><!-- End Basic Plan -->
-
-            <!-- Professional Plan -->
-            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-                <div class="pricing-card popular">
-                    <div class="popular-tag">Most Popular</div>
-                    <div class="plan-header">
-                        <div class="plan-icon">
-                            <i class="bi bi-briefcase"></i>
-                        </div>
-                        <h3>Professional</h3>
-                        <p>For small teams and growing businesses</p>
-                    </div>
-                    <div class="plan-pricing">
-                        <div class="price">
-                            <span class="currency">$</span>
-                            <span class="amount">39</span>
-                            <span class="period">/month</span>
-                        </div>
-                    </div>
-                    <div class="plan-features">
-                        <ul>
-                            <li><i class="bi bi-check-circle-fill"></i> Donec quam felis ultricies</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Nam eget dui etiam rhoncus</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Maecenas tempus tellus</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Donec pede justo fringilla</li>
-                            <li class="disabled"><i class="bi bi-x-circle-fill"></i> Cras dapibus vivamus</li>
-                        </ul>
-                    </div>
-                    <div class="plan-cta">
-                        <a href="#" class="btn-plan">Choose Plan</a>
-                    </div>
-                </div>
-            </div><!-- End Professional Plan -->
-
-            <!-- Enterprise Plan -->
-            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-                <div class="pricing-card">
-                    <div class="plan-header">
-                        <div class="plan-icon">
-                            <i class="bi bi-building"></i>
-                        </div>
-                        <h3>Enterprise</h3>
-                        <p>For large organizations and corporations</p>
-                    </div>
-                    <div class="plan-pricing">
-                        <div class="price">
-                            <span class="currency">$</span>
-                            <span class="amount">79</span>
-                            <span class="period">/month</span>
-                        </div>
-                    </div>
-                    <div class="plan-features">
-                        <ul>
-                            <li><i class="bi bi-check-circle-fill"></i> Etiam sit amet orci eget</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Pellentesque posuere vulputate</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Quisque rutrum aenean</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Fusce vulputate eleifend</li>
-                            <li><i class="bi bi-check-circle-fill"></i> Phasellus viverra nulla</li>
-                        </ul>
-                    </div>
-                    <div class="plan-cta">
-                        <a href="#" class="btn-plan">Choose Plan</a>
-                    </div>
-                </div>
-            </div><!-- End Enterprise Plan -->
+            </div>
         </div>
-
     </div>
 
 </section>
