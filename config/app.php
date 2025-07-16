@@ -15,6 +15,12 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'email' => env('APP_EMAIL', 'admin@admin.com'),
+
+    'telephone' => env('APP_TELEPHONE', '+380912345678'),
+
+    'address' => [''],
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment

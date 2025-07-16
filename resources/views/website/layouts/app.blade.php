@@ -51,6 +51,10 @@
 <script src="{{ asset('assets/vendor/typed.js/typed.umd.js') }}"></script>
 <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
 
+<script>
+    AOS.init();
+</script>
+
 <!-- Main JS File -->
 <script src="{{ asset('assets/js/main.js') }}"></script>
 

@@ -50,7 +50,7 @@
 
                     <div class="mt-5" data-aos="fade-up" data-aos-delay="600">
                         <a href="#" class="btn btn-primary me-3">Learn More</a>
-                        <a href="#" class="btn btn-outline-primary">Contact Us</a>
+                        <a href="#contact" class="btn btn-outline-primary">Contact Us</a>
                     </div>
                 </div>
             </div>

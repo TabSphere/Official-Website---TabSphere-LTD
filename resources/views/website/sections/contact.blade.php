@@ -33,7 +33,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>Send Email</h5>
-                                <p>support@tabsphere.co.uk</p>
+                                <p>{{config('')}}</p>
                             </div>
                         </div>
 
